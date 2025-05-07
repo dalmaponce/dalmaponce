@@ -2,10 +2,6 @@
 
 ¡Hola! Soy una **Desarrolladora Full Stack** apasionada por construir soluciones tecnológicas intuitivas, eficientes y escalables. Actualmente me estoy formando profesionalmente mientras participo en proyectos que integran el desarrollo de backend, frontend y análisis de datos.
 
-📍 Argentina  
-📫 dfponce96@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/dalma-ponce) • [GitHub](https://github.com/dalmaponce)
-
 ---
 
 ## 🛠️ Stack Tecnológico
