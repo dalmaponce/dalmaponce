@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+# 🛠️ Stack Tecnológico
 
 ### ⚙️ Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -32,7 +32,7 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-### 🧰 Tecnologías yHerramientas
+### 🧰 Tecnologías y Herramientas
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
