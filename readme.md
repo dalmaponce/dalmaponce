@@ -61,7 +61,7 @@
 
 ## 📚 Formación Académica
 - Tecnicatura Universitaria en Programación – UTN (2023 - Presente)
-- Tecnicatura Superior en Desarrollo Web – Instituto Politécnico de Córdoba (2022 - Presente)
+- Tecnicatura Superior en Desarrollo Web – Instituto Politécnico Córdoba (2022 - Presente)
 
 ---
 
