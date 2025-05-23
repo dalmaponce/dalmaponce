@@ -59,20 +59,3 @@
 </div>
 
 ---
-
-
-## 📚 Formación Académica
-- Tecnicatura Universitaria en Programación – UTN (2023 - Presente)
-- Tecnicatura Superior en Desarrollo Web – Instituto Politécnico Córdoba (2022 - Presente)
-
----
-
-## 🌱 Actualmente Aprendiendo
-- Mejores prácticas
-- Seguridad en APIs REST
-- Profundización en Angular y Spring Security
-
----
-
-Gracias por visitar mi perfil. ¡Estoy siempre abierta a nuevos desafíos y oportunidades para seguir creciendo en el mundo del desarrollo!
-
